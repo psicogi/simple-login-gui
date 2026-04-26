@@ -17,8 +17,7 @@ Um sistema de login funcional desenvolvido em Java para praticar conceitos de in
 2. Certifique-se de ter o JDK 21 instalado.
 3. Execute o projeto através da classe `Launcher.java`.
 
-
-
+##
 
 A functional login application built with Java to practice GUI concepts, styling, and Maven project management.
 
