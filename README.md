@@ -35,3 +35,10 @@ A functional login application built with Java to practice GUI concepts, styling
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/psicogi/simple-login-gui.git](https://github.com/psicogi/simple-login-gui.git)
+2. **Prerequisites:** Ensure you have **JDK 21** installed and configured in your environment.
+
+3. **Execution:**
+
+Open the project in your favorite IDE (IntelliJ IDEA recommended).
+
+Run the Launcher.java class to start the application.   
