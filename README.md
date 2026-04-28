@@ -39,6 +39,6 @@ A functional login application built with Java to practice GUI concepts, styling
 
 3. **Execution:**
 
-* Open the project in your favorite IDE (IntelliJ IDEA recommended).
+ * Open the project in your favorite IDE (IntelliJ IDEA recommended).
 
-* Run the `Launcher.java` class to start the application.
+ * Run the `Launcher.java` class to start the application.
